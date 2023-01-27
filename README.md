@@ -302,5 +302,6 @@ Don’t use _ underscore as the starting character of the field name. The only f
 
 4) Service Registry
 
-# References: https://awesomeopensource.com/project/raycad/go-microservices (Credits to the Author. Lots Learning and really enjoyed implementing this Much needed Topic for go beginners) 
+
+References: https://awesomeopensource.com/project/raycad/go-microservices (Credits to the Author. Lots Learning and really enjoyed implementing this Much needed Topic for go beginners) 
 
