@@ -8,6 +8,9 @@ Below is an example of designing and implementing Microservices using:
 2)Traefik
 
 3)MongoDB
+       
+       
+ ![Screenshot (84)](https://user-images.githubusercontent.com/93249038/215036532-604f3fdc-c653-4a89-b199-68aaad70b481.png)
 
 
 #  Movie Service Build & Run
@@ -23,10 +26,12 @@ https://docs.mongodb.com/manual/installation
 $ mongod --dbpath="[your_database_path]"
 
 #Install neccessary Golang packages
+ 
 $ go get -u github.com/swaggo/swag/cmd/swag github.com/swaggo/gin-swagger github.com/swaggo/gin-swagger/swaggerFiles github.com/alecthomas/template github.com/gin-gonic/gin github.com/sirupsen/logrus gopkg.in/mgo.v2/bson github.com/natefinch/lumberjack
 
 #  Compile & run services
-- Generate API documentation using Swag
+- Generate API documentation using Swag    
+ 
 Guideline: https://github.com/swaggo/swag
 
 # Change configuration file
