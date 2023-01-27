@@ -10,7 +10,8 @@ Below is an example of designing and implementing Microservices using:
 3)MongoDB
        
        
- ![Screenshot (84)](https://user-images.githubusercontent.com/93249038/215036532-604f3fdc-c653-4a89-b199-68aaad70b481.png)
+ ![Screenshot (84)](https://user-images.githubusercontent.com/93249038/215036753-14cf112d-352e-430f-bb18-d37f86cefc2d.png)
+
 
 
 #  Movie Service Build & Run
@@ -293,13 +294,13 @@ Don’t use _ underscore as the starting character of the field name. The only f
 
 
 # Terminologies Concepts
-Discovery Service e.g. Eureka
+1)Discovery Service e.g. Eureka
 
-# Load Balancing e.g. Ribbon
+2) Load Balancing e.g. Ribbon
 
-# Circuit Breaker e.g. Hystrix
+3) Circuit Breaker e.g. Hystrix
 
-# Service Registry
+4) Service Registry
 
 
 
