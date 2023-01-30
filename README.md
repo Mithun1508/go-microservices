@@ -12,6 +12,9 @@ Below is an example of designing and implementing Microservices using:
        
  ![Screenshot (84)](https://user-images.githubusercontent.com/93249038/215036753-14cf112d-352e-430f-bb18-d37f86cefc2d.png)
 
+# Generic MovieBuzz Architecture 
+
+ ![jpg](https://user-images.githubusercontent.com/93249038/215412101-f5649696-dc4e-4165-9d78-b06d1a888e90.jpg)
 
 
 #  Movie Service Build & Run
